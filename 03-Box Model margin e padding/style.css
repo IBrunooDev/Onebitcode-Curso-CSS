@@ -1,0 +1,72 @@
+.box1 {
+    background-color: #f64348;
+    border: 2px solid #1c1a1d;
+}
+
+.box1 {
+    /* margem */
+
+    /* Margin top / da espaço acima  */
+    margin-top: 30px;
+
+    /* Margin right / da espaço na direita  */
+    margin-right: 40px;
+
+    /* Margin left / da espaço na esquerda  */
+    margin-left: 30px;
+
+
+    /* Margin / da espaço em baixo */
+    margin-bottom: 30px;
+
+    /* ========================================================== */
+
+    /* padding-top / ele preencher dentro do item em "cima"  */
+    padding-top: 10px;
+
+    /* padding-right / ele preencher dentro do item na "direita" */
+    padding-right: 20px;
+
+    /* padding-left / ele preencher dentro do item na "esquerda" */
+    padding-left: 10px;
+
+    /* padding-bottom / ele preencher dentro do item em "baixo"  */
+    padding-bottom: 20px;
+}
+
+
+.box2 {
+    background-color: #43f661;
+    border: 2px solid #1c1a1d;
+}
+
+.box2 {
+    /* margem */
+
+    /* Margin top / da espaço acima  */
+    margin-top: 30px;
+
+    /* Margin right / da espaço na direita  */
+    margin-right: 40px;
+
+    /* Margin left / da espaço na esquerda  */
+    margin-left: 30px;
+
+    /* Margin / da espaço em baixo */
+    margin-bottom: 30px;
+
+    /* ========================================================== */
+
+    /* padding-top / ele preencher dentro do item em "cima"  */
+    padding-top: 10px;
+
+    /* padding-right / ele preencher dentro do item na "direita" */
+    padding-right: 20px;
+
+    /* padding-left / ele preencher dentro do item na  "esquerda" */
+    padding-left: 10px;
+
+    /* padding-bottom / ele preencher dentro do item em "baixo"  */
+    padding-bottom: 20px;
+
+}

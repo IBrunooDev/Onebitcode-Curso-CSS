@@ -1,0 +1,87 @@
+body {
+
+    /* Mudar a cor do fundo 👇 */
+    /* background-color: rgb(0, 0, 255);   */
+
+
+    /* Colocar img no fundo da pagina */
+    background-image: url("https://cdn.pixabay.com/photo/2023/09/25/10/05/ai-generated-8274619_1280.png");
+
+    /* Essa tag e usada igualar o tamanho da img na sua pagina */
+    background-size: cover;
+
+    /* Essa tag serve para nao repetir a sua img na pagina */
+    background-repeat: no-repeat;
+
+}
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+main {
+    background-color: #e5e5e5;
+
+    /* Essa tag border e usada para coloca borda no seu elemento */
+
+    /* Essa borda e a largura */
+    border-width: 4px;
+
+    /* Essa tag e para da cor a sua borda */
+    border-color: #1c1a1d;
+
+    /* Essa tag define os estilo da sua borda */
+    border-style: solid;
+}
+
+.box1 {
+    /* Essa tag vc coloca uma cor */
+    background-color: #169436;
+
+    /* Essa tag e de altura */
+    height: 64px;
+
+    /* Essa tag e de largura */
+    width: 320px;
+
+    /* Essa tag border para poupa seu tempo */
+    border: 4px solid #1c1a1d;
+}
+
+.box2 {
+
+    /* Com essa tag vc consegui fazer um gradient com as cor que vc escolher*/
+    /*  tem coloca vc trocar lado da esquerda para direita / vc pode usa tambem a opção "45deg" vc* */
+    background-image: linear-gradient(to left, #2c2c2c, #fff200);
+
+    /* Essa tag e de altura */
+    height: 64px;
+
+    /* Essa tag e de largura */
+    width: 320px;
+
+    /* Essa tag border para poupa seu tempo */
+    border: 4px dotted #1c1a1d;
+
+}
+
+.box3 {
+    /* Essa tag vc coloca uma cor */
+    background-color: #139c91;
+
+    /* Essa tag e de altura */
+    height: 64px;
+
+    /* Essa tag e de largura */
+    width: 320px;
+
+    /* Essa tag border para poupa seu tempo */
+    border: 4px solid #aa00ff;
+
+    /* Essa tag vc pode arredondar sua borda */
+    border-radius: 20px;
+
+    /* Essa tag vc escolher o lado de alteração da sua borda */
+    /* border-bottom-left-radius: 40px; */
+}

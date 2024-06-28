@@ -1,0 +1,45 @@
+header {
+
+    /* Essa tag serve para vc coloca seu texto no centro da pagina */
+    text-align: center;
+
+    /* Essa tag serve para vc decorar o seu texto  */
+    text-decoration: underline;
+
+    /* Essa tag serve para vc transfomar o texto  */
+    text-transform: uppercase;
+}
+
+h1 {
+    /* Essa tag serve para vc dar font para a familia do seu seletores */
+    font-family: sans-serif;
+
+    /* Essa tag serve para dar peso na font como usando negrito nela */
+    font-weight: 100;
+}
+
+h2 {
+    /* Essa tag serve para vc dar tamnaho para sua letra / font */
+    font-size: 30px;
+
+    /* Essa tag serve para deixa o texto mas estiloso */
+    letter-spacing: 8px;
+
+    /* Essa tag serve para vc transfomar o texto  */
+    text-transform: uppercase;
+}
+
+p {
+    /* Essa tag serve para vc dar font para a familia do seu seletores */
+    font-family: sans-serif;
+}
+
+.bold{
+    /* Essa tag serve para dar peso na font como usando negrito nela */
+    font-weight: bold;
+}
+
+.italic{
+    /* Essa tag serve para vc daixa sua paragrafo italico */
+    font-style: italic;
+}
